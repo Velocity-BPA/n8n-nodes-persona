@@ -1,0 +1,42 @@
+# Source files
+*.ts
+!*.d.ts
+tsconfig.json
+
+# Development files
+.eslintrc.js
+.prettierrc
+.gitignore
+.github/
+
+# Test files
+test/
+coverage/
+*.test.ts
+*.spec.ts
+jest.config.js
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Development dependencies
+node_modules/
+
+# Scripts (not needed in package)
+scripts/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env*
+
+# Build info
+*.tsbuildinfo
