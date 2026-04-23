@@ -2,7 +2,7 @@
   "name": "n8n-nodes-persona",
   "version": "1.0.0",
   "description": "A comprehensive n8n community node for Persona identity verification platform providing 22 resources and 200+ operations for KYC/AML verification, document verification, biometric checks, watchlist screening, and compliance automation.",
-  "license": "BUSL-1.1",
+  "license": "SEE LICENSE IN LICENSE.md",
   "author": {
     "name": "Velocity BPA",
     "email": "licensing@velobpa.com",
@@ -83,7 +83,7 @@
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-n8n-nodes-base": "^1.16.0",
     "jest": "^29.7.0",
-    "n8n-workflow": "^1.20.0",
+    "n8n-workflow": "1.57.0",
     "prettier": "^3.1.0",
     "ts-jest": "^29.1.1",
     "typescript": "^5.3.0"
